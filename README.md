@@ -9,7 +9,6 @@ A responsive static portfolio prepared for GitHub Pages.
 - `script.js` - navigation, scroll reveal, active sections, theme toggle, copy email
 - `assets/Muhammad-Yeshar-Resume.pdf` - downloadable resume
 - `assets/favicon.svg` and `assets/og-card.svg`
-- `.nojekyll` - prevents GitHub Pages from treating the site as a Jekyll project
 
 ## Publish to GitHub Pages
 
